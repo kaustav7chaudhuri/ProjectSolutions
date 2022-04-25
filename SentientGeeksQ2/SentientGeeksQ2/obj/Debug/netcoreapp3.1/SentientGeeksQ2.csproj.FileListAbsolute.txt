@@ -1,0 +1,14 @@
+C:\Users\kaustav chaudhuri\source\repos\SentientGeeksQ2\SentientGeeksQ2\bin\Debug\netcoreapp3.1\SentientGeeksQ2.exe
+C:\Users\kaustav chaudhuri\source\repos\SentientGeeksQ2\SentientGeeksQ2\bin\Debug\netcoreapp3.1\SentientGeeksQ2.deps.json
+C:\Users\kaustav chaudhuri\source\repos\SentientGeeksQ2\SentientGeeksQ2\bin\Debug\netcoreapp3.1\SentientGeeksQ2.runtimeconfig.json
+C:\Users\kaustav chaudhuri\source\repos\SentientGeeksQ2\SentientGeeksQ2\bin\Debug\netcoreapp3.1\SentientGeeksQ2.runtimeconfig.dev.json
+C:\Users\kaustav chaudhuri\source\repos\SentientGeeksQ2\SentientGeeksQ2\bin\Debug\netcoreapp3.1\SentientGeeksQ2.dll
+C:\Users\kaustav chaudhuri\source\repos\SentientGeeksQ2\SentientGeeksQ2\bin\Debug\netcoreapp3.1\SentientGeeksQ2.pdb
+C:\Users\kaustav chaudhuri\source\repos\SentientGeeksQ2\SentientGeeksQ2\obj\Debug\netcoreapp3.1\SentientGeeksQ2.csproj.AssemblyReference.cache
+C:\Users\kaustav chaudhuri\source\repos\SentientGeeksQ2\SentientGeeksQ2\obj\Debug\netcoreapp3.1\SentientGeeksQ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaustav chaudhuri\source\repos\SentientGeeksQ2\SentientGeeksQ2\obj\Debug\netcoreapp3.1\SentientGeeksQ2.AssemblyInfoInputs.cache
+C:\Users\kaustav chaudhuri\source\repos\SentientGeeksQ2\SentientGeeksQ2\obj\Debug\netcoreapp3.1\SentientGeeksQ2.AssemblyInfo.cs
+C:\Users\kaustav chaudhuri\source\repos\SentientGeeksQ2\SentientGeeksQ2\obj\Debug\netcoreapp3.1\SentientGeeksQ2.csproj.CoreCompileInputs.cache
+C:\Users\kaustav chaudhuri\source\repos\SentientGeeksQ2\SentientGeeksQ2\obj\Debug\netcoreapp3.1\SentientGeeksQ2.dll
+C:\Users\kaustav chaudhuri\source\repos\SentientGeeksQ2\SentientGeeksQ2\obj\Debug\netcoreapp3.1\SentientGeeksQ2.pdb
+C:\Users\kaustav chaudhuri\source\repos\SentientGeeksQ2\SentientGeeksQ2\obj\Debug\netcoreapp3.1\SentientGeeksQ2.genruntimeconfig.cache
